@@ -1,7 +1,7 @@
 # Set
 The card game set done with java
 
-### installation 
+### Installation 
 
 youre first going to want to make sure that java 8 (i.e. 1.8) is installed on your computer and you have changed the compiler to compile using 1.8.
 
